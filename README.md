@@ -1,5 +1,6 @@
 https://arslanmehmet1.github.io/PROJECT_CheckOutPageDinamic/
 # PROJECT_CheckOutPageDinamic
+https://user-images.githubusercontent.com/108485739/225633002-0f58201a-7acb-4b76-970b-4892ecc4051b.mp4
 
 Dinamic CheckOut Page
 
